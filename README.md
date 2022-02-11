@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning ethical hacking
 - 💞️ I’m looking to collaborate on cyber security
-- 📫 mail me - ishusharma@gmail.com
+- 📫 mail me - ishusharmakoooo@gmail.com
 
 <!---
 9315ishu/9315ishu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
